@@ -2,7 +2,7 @@
 
 ## Overview
 
-![System Screenshot](images/system_screenshot.png)
+![System Screenshot](StudentMangmentSystem.png)
 
 ## Version
 
