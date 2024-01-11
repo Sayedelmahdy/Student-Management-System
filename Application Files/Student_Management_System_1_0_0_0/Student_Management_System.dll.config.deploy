@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<configuration>
-	<connectionStrings >
-		<add name="Connection" connectionString="Data Source=.;Initial Catalog=StudentManagmentSystemDB;User Id=ArtOfCoding;Password=SAAEHMM9122023;MultipleActiveResultSets=True;encrypt=False"/>
-	</connectionStrings>
-</configuration>
