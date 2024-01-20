@@ -40,6 +40,10 @@ Check out the [video demonstration](https://fb.watch/pw5mw2PvmU/) to see the fea
 13. Review success rates of students in a specific group.
 14. View average student grades in a specific test on a particular day or within a specific period.
 
+## Developers - ArtOfCoding
+
+The Student Management System was developed by the talented team at ArtOfCoding. With a passion for creating innovative solutions, ArtOfCoding has successfully designed and implemented this system to meet the needs of teachers and educators.
+
 ## How to Buy
 
 If you are interested in purchasing the Student Management System, please contact us:
